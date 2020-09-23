@@ -423,7 +423,7 @@ fn get_num_cpus() -> usize {
     windows,
 )))]
 fn get_num_cpus() -> usize {
-    1
+    3
 }
 
 #[cfg(test)]
